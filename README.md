@@ -6,8 +6,9 @@ In order to use this project you need to instal LAMP/WAMP and create folder libr
 
 If you want to check out admin panel you need to have following credentials :
 
-username : admin
-password : admin!!123
+email : bajju@gmail.com
+username : code.bajju
+password : code.bajju
 
 Of course this credentials only work for admin registrations
 
